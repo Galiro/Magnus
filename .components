@@ -1,0 +1,10 @@
+---
+:orm: !binary |-
+  ZGF0YW1hcHBlcg==
+:test: none
+:mock: none
+:script: none
+:renderer: slim
+:stylesheet: none
+:namespace: !binary |-
+  TWFnbnVz
